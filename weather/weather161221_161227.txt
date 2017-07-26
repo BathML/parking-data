@@ -1,0 +1,8 @@
+GMT,Max TemperatureC,Mean TemperatureC,Min TemperatureC,Dew PointC,MeanDew PointC,Min DewpointC,Max Humidity, Mean Humidity, Min Humidity, Max Sea Level PressurehPa, Mean Sea Level PressurehPa, Min Sea Level PressurehPa, Max VisibilityKm, Mean VisibilityKm, Min VisibilitykM, Max Wind SpeedKm/h, Mean Wind SpeedKm/h, Max Gust SpeedKm/h,Precipitationmm, CloudCover, Events,WindDirDegrees
+2016-12-21,10,7,3,8,7,3,96,88,79,1023,1018,1015,23,10,0,26,16,,0.51,,Fog-Rain,-1
+2016-12-22,9,4,1,7,4,1,100,91,63,1031,1027,1023,27,13,0,26,6,,0.76,,Fog-Rain,-1
+2016-12-23,11,8,5,11,7,4,98,88,74,1031,1025,1017,31,15,3,35,18,,3.05,,Rain,-1
+2016-12-24,11,7,4,8,6,2,83,78,72,1028,1026,1025,11,10,8,42,23,,0.00,,Rain,-1
+2016-12-25,13,11,9,11,10,8,97,88,74,1026,1023,1021,31,13,3,45,31,,0.51,,Rain,-1
+2016-12-26,8,6,3,10,3,-1,91,73,52,1042,1033,1022,31,20,13,26,18,,0.00,,Rain,-1
+2016-12-27,4,1,-2,3,1,-2,100,93,79,1045,1044,1042,16,9,5,10,5,,0.00,,Fog,-1
