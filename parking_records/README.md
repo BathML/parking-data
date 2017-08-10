@@ -6,3 +6,5 @@ The other datasets here are these records, filtered:
 
 * By month
 * By car park
+
+For an explanation of the data cleaning process, please see the [BANEScarparking](https://github.com/owenjonesuob/BANEScarparking) documentation.
